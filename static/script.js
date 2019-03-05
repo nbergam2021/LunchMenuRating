@@ -27,9 +27,9 @@ request.onload = function () {
 // Send request
 request.send();
 
-window.alert( foods[0] );
+//window.alert( foods[0] );
 foods.push("fwfaev");
-window.alert( foods[0] );
+//window.alert( foods[0] );
 
 
 // trying to access JSON data of lunch menu items by sending request?
